@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "Ian Hicks Resume 2023 ATS.pdf", title: "Resume"} 
+  - {file: "/Ian Hicks Resume 2023 ATS.pdf", title: "Resume"} 
   - {file: "wsamples.md", title: "Writing Samples"}
   - {file: "blog.md", title: "Blog"}
 

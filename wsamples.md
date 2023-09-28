@@ -1,6 +1,6 @@
 ---
 layout: page
-title:"Writing Samples"
+title: "Writing Samples"
 ---
 Here are some writing examples from my professional and academic careers:
 <ul>

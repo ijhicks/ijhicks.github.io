@@ -18,12 +18,12 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "Ian Hicks Resume 2023 ATS.pdf", title: "Resume"} 
   - {file: "README.md", title: "About"}
-  - {file: "Blog.md", title: "Blog"}
+  - {file: "blog.md", title: "Blog"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:ianjameshicks@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/ijhicks"}
-  - {title: LinkedIn, icon: fa-linkedin, url: "https://www.linkedin.com/in/ian-hicks-80381212/"}
+  - {title: LinkedIn, icon: https://fontawesome.com/icons/linkedin?f=brands&s=solid, url: "https://www.linkedin.com/in/ian-hicks-80381212/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
